@@ -9,14 +9,14 @@ nav:
 
 Our lab is part of the [Department of Chemistry](), at the school of [Queens College, City University of New York]().
 
-<br>
-Office: NSB B312, (718) 997-3271
-<br>
-
-Labs: 
+We are located at: 
 - NSB D319 & D333, (718) 997-3270, Mass Specs
 - NSB B309, (718)997-3274, Wet Lab
 - NSB B308,  (718)997-3178, Computer Cluster
+
+<br>
+Office: NSB B312, (718) 997-3271
+<br>
 
 {%
   include link.html
