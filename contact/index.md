@@ -7,8 +7,10 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Department of Chemistry](), at the school of [Queens College, City University of New York]().
+We are located on - NSB D319 & D333, (718) 997-3270, Mass Specs
+- NSB B309, (718)997-3274, Wet Lab
+- NSB B308,  (718)997-3178, Computer Cluster
 
 {%
   include link.html
