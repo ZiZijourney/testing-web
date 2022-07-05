@@ -8,7 +8,13 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [Department of Chemistry](), at the school of [Queens College, City University of New York]().
-We are located on - NSB D319 & D333, (718) 997-3270, Mass Specs
+
+<br>
+Office: NSB B312, (718) 997-3271
+<br>
+
+Labs: 
+- NSB D319 & D333, (718) 997-3270, Mass Specs
 - NSB B309, (718)997-3274, Wet Lab
 - NSB B308,  (718)997-3178, Computer Cluster
 
@@ -25,9 +31,9 @@ We are located on - NSB D319 & D333, (718) 997-3270, Mass Specs
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(718) 997-3271"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1-718-997-3271"
   style="button"
 %}
 {%
@@ -45,9 +51,10 @@ We are located on - NSB D319 & D333, (718) 997-3270, Mass Specs
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Department of Chemistry & Biochemistry
+Queens College of the City University of New York
+65-30 Kissena Blvd.
+Queens, NY 11367
 {:.center}
 
 {% capture col1 %}
