@@ -61,46 +61,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Our work is made possible by funding from several organizations.
 {:.center}
 
-{%
-  include gallery.html
-  style="square"
-
-  NSF Award, 2019-2022
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
-
-  Air Force Research Lab/Jacobs Contract, 2021-2023
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
-  
-  CUNY "Salute to Scholars" Certificate of Recognition, 2008, 2010, 2016
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
-  
-  Air Force Research Lab/ERC Contract, 2009-2010, 2012-2013, 2017-2020
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  NSF Award, 2015-2019
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-  
-  NSF CAREER Award, 2010-2015
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
-  
-  
-%}
-ACS Petroleum Research Fund Type G Grant, 2008-2011
-CUNY GRTI, 2014-2020
-QC Research Enhancement Grant, 2007-2018
-PSC-CUNY Research Awards, 2007-2023
-QC UR/ME Grant, 2010-2014
-QC President's Innovative Teaching Grant
-CUNY Collaborative Research Grant
+- NSF Award, 2019-2022
+- Air Force Research Lab/Jacobs Contract, 2021-2023
+- CUNY "Salute to Scholars" Certificate of Recognition, 2008, 2010, 2016
+- Air Force Research Lab/ERC Contract, 2009-2010, 2012-2013, 2017-2020
+- NSF Award, 2015-2019
+- NSF CAREER Award, 2010-2015
+- ACS Petroleum Research Fund Type G Grant, 2008-2011
+- CUNY GRTI, 2014-2020
+- QC Research Enhancement Grant, 2007-2018
+- PSC-CUNY Research Awards, 2007-2023
+- QC UR/ME Grant, 2010-2014
+- QC President's Innovative Teaching Grant
+- CUNY Collaborative Research Grant
