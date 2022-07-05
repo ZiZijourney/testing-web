@@ -8,6 +8,7 @@ nav:
 # <i class="fas fa-microscope"></i>Research
 
 **I. Study on biochemical and biophysical interactions by real-time gas-phase techniques**
+
 <br>
 This project uses gas-phase ion-molecule reaction techniques, in conjunction with computational chemistry, to probe biophysical and biochemical processes. One of such research efforts is directed toward probing the chemistry of biomolecule photooxidation and oxidative post-translational modifications. Photooxidation of biomolecules by reactive oxygen species is an important biological process associated with aging, disease and photodynamic therapy for cancer, and is also related to the photochemical transformations of atmospheric biomolecule aerosols. Most of photooxidation experiments have been carried out in solution, with various reactive oxygen species generated simultaneously via photosensitization. The inability to unambiguously distinguish the individual roles of various reactive oxygen species in solution, together with the large number of coupled experimental variables (sensitizers, oxygen, solvent, pH, light wavelength, etc.), makes the interpretation of mechanism complicated.
 <br>
