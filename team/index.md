@@ -65,6 +65,7 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
+  Air Force Research Lab Summer Faculty Fellowship, 2019
   image1="images/photo.jpg"
   link1="https://nasa.gov/"
   tooltip1="Cool Foundation"
