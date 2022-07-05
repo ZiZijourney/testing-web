@@ -1,13 +1,11 @@
 ---
-title: Example post 1
+title: Yigang was awarded the Mina Rees Disseration Fellowship!
 tags:
-  - biology
-  - medicine
-  - big data
-author: Anne Chovie
-member: anne-chovie
+  
+author: Yigang
+member: Yigang
 ---
 
 # Heading 1
 
-Yigang was awarded the Mina Rees Disseration Fellowship!
+
