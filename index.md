@@ -4,8 +4,8 @@ title: Home
 
 # Jianbo Liu's Laboratory
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Our research focuses on using various instrumental analysis approaches (e.g.,  mass spectrometry, spectroscopy, and ion-molecule reactions) to probe biologically relevant processes in a spectrum of systems ranging from isolated biomolecules, through micelles and aerosols containing biomolecules, to biomolecule solution.
+We are also interested in discovering and developing new analytical approaches.  In addition, we have interests in computational chemistry (e.g. quasi-classical direct dynamics trajectory simulations) and nano-materials.
 
 {%
   include link.html
