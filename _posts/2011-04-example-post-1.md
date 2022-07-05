@@ -1,11 +1,9 @@
 ---
-title: Yigang was awarded the Mina Rees Disseration Fellowship!
-tags:
-  
+title: Yigang was awarded the Mina Rees Disseration Fellowship 
 author: Yigang
 member: Yigang
 ---
 
-# Heading 1
+Yigang was awarded the Mina Rees Disseration Fellowship 
 
 
