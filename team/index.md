@@ -41,11 +41,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Join
+## Positions Opening Now
 
-#### Post Dogtoral Researcher
+#### Ph.D. Student Research Assistants in Physical Chemsitry, Biophysical Chemistry, and Instrumental Analysis
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#### Master's and Undergraduate Research Students who wish to conduct research in biophysical/analytical, and computational chemistry.
+
+Please contact  Dr. Jianbo Liu
 
 - 3+ (dog) years experience managing bone portfolios
 - Strong desire to learn tricks and go on walkies
