@@ -34,7 +34,8 @@ Image here
 <br>
 
 {% include section.html %}
-**II. Gas-phase reverse micelles ¾ A novel gas-phase nano-reactor**
+
+**II. Gas-phase reverse micelles - A novel gas-phase nano-reactor**
 
 <br>
 <br>
@@ -48,6 +49,40 @@ Another area of our research involves the use of aerosol particles and droplets 
 
 <br>
 Inspired by this fascinating chemistry in nature, we are exploring an approach to generate, characterize and utilize gas-phase reverse micelle in the laboratory environment.  Our recent experiments demonstrated the formation of multiply charged, gas-phase NaAOT (sodium bis(2-ethylhexyl) sulfosuccinate) reverse micelles by using ESI mass spectrometry.  These micelles represent nanometric compartmentalized, polar microenvironments, and can encapsulate various species including amino acids and other biomolecules within the micellar core.  A more interesting observation is that amino acids of different isoelectric points could be selectively encapsulated into, and transport by, reverse micelles from solution to the gas phase. The combination of gas-phase reverse micelles, spectroscopy and mass spectrometry brings about a new experimental technique and open up new opportunities for gas-phase studies of biochemistry and biophysics. It allows for the study of solution-phase chemistry (including structure, reaction, kinetics and dynamics) using precisely defined nano-reactors in the gas phase and in vacuo, so that we can monitor what is going on by using sensitive gas-phase techniques.
+<br>
+
+<br>
+image here
+<br
+
+ <br>
+ <br>
+ **III. Dynamics simulations of excited molecules and energetic compounds**
+ <br>
+ <br>
+ 
+ <br>
+ **a)      Steps toward Polanyi Rules for polyatomic reactions**
+ <br>
+ 
+<br>
+We are interested in using dynamics simulations to probe small polyatomic reactions.  One effort is on devising Polanyi-type Rules for predicting the effects of translational and vibrational energy on polyatomic reactions, in parallel with the state-selected ion-molecule scattering experiments of Scott Anderson's group (Univ of Utah).
+<br>
+
+<br>
+image here
+<br>
+
+<br>
+**b) Energetic materials**
+<br>
+
+<br>
+    Another theoretical project focuses on dynamics simulations and statistical modeling of energetic materials.  In collaboration with the Edwards Air Force Research Laboratory, we are investigating the thermal decomposition mechanisms, kinetics, dynamics and product branching ratios of nitrogen-rich explosive compounds, e.g., dinitrobiuret (DNB), and 1-ethyl-3-methylimidazolium dicyanamide and 1-ethyl-2,3-dimethylimidazolium dicyanamide ionic liquids.
+<br>
+
+<br>
+image here
 <br>
 
 
