@@ -7,22 +7,6 @@ title: Home
 Our research focuses on using various instrumental analysis approaches (e.g.,  mass spectrometry, spectroscopy, and ion-molecule reactions) to probe biologically relevant processes in a spectrum of systems ranging from isolated biomolecules, through micelles and aerosols containing biomolecules, to biomolecule solution.
 We are also interested in discovering and developing new analytical approaches.  In addition, we have interests in computational chemistry (e.g. quasi-classical direct dynamics trajectory simulations) and nano-materials.
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
